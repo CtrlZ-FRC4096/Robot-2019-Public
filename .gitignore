@@ -1,0 +1,6 @@
+*.wpu
+*.pyc
+__pycache__/*.*
+*lastfailed
+*.coverage
+.DS_Store

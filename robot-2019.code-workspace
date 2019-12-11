@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 4,
+		"files.trimTrailingWhitespace": true,
+		"autoDocstring.guessTypes": true,
+		"autoDocstring.newlineBeforeSummary": true,
+		"terminal.explorerKind": "external",
+		"python.pythonPath": "C:\\Python37\\python.exe",
+		"editor.insertSpaces": false,
+		"editor.detectIndentation": false,
+		"breadcrumbs.enabled": true,
+	}
+}

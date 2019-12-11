@@ -1,0 +1,7 @@
+{
+	"python.linting.pylintEnabled": true,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"python.linting.enabled": true,
+	"git.autofetch": false
+}
